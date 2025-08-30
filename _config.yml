@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zamambo Mkhize"
   avatar : "/assets/images/brain_pawn.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Strategy x Datascience "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
