@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/brain_pawn.png"
   bio    : "Management Consultant | Strategy x Datascience "
   links:
-    - label: "Website"
+    - label: "Buy me a coffee"
       icon: "fas fa-fw fa-link"
       url: "https://buymeacoffee.com/gambitiq/"
     - label: "Twitter"
