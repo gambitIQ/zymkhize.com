@@ -112,5 +112,5 @@ tag_archive:
   type: liquid
   path: /tags/
 cv:
-  type: single
+  type: page
   path: /cv/
