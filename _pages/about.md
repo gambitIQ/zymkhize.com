@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "A bit about me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have been a management consultant for over 15 years, delivering large-scale transformation, strategy, and operational improvement programs across financial services and corporate sectors.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I specialize in structuring ambiguous problems, applying data-driven analysis, and building execution roadmaps that achieve measurable business outcomes.
+
+I began my career at McKinsey before moving in-house as an advisor and execution partner to senior executives and boards, where stakeholder alignment, analytical rigor, and execution discipline mattered most. 
+
+Most recently, I’ve focused on how to leverage data science and analytics to quantifying value pools and drive measurable lift in revenue, margin, and CX.
+
+When I’m not nerding out on strategy and tech, you’ll find me hiking, reading, traveling, or getting lost in a good puzzle or a good book. 
