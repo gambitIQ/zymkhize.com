@@ -3,10 +3,10 @@ main:
     url: /posts/
     children: 
     - title: "Categories"
-      url: /categories/
+      url: /posts/categories/
     - title: "Tags"
-      url: /tags/
-    - title: "About"
-      url: /about/
+      url: /posts/tags/
+  - title: "About"
+    url: /about/
   - title: "CV"
     url: /cv/
